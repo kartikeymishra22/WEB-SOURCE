@@ -1,0 +1,20 @@
+#mainTopic{
+    color : blue;
+}
+
+* {
+    text-align: center;
+}
+
+h1,h3,h5 {
+    font-style: georgia serif;
+}
+p{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+div > button {
+    background-color:purple;
+    color: white;
+}
