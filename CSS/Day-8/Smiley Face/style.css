@@ -7,3 +7,32 @@
 }
 
 
+ .eye1{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+    top: 100px;
+    left: 100px;
+ }
+
+ .eye2{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+    top: 50px;
+    left: 350px;
+ }
+
+ .mouth{
+    height: 50px;
+    width: 200px;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+    top: 200px;
+    left: 150px;
+ }
