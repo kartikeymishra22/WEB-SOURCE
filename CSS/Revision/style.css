@@ -1,0 +1,32 @@
+/* h2{
+    /* color : orange; */
+    /* text-align: justify; */
+    /* font-weight: 100;
+    text-decoration:red line-through */
+    /* letter-spacing: 10px;
+    line-height:normal; */
+/* }
+a{
+    text-decoration: None;
+} */
+
+/* p{
+    background-color :black;
+    color : white;
+}
+button{
+    background-color:black;
+    color : #ffffff;
+} */ 
+
+h1{
+    font-family:"League Spartan"; 
+    color:#ffa551;
+    text-align: center;
+    font-size: 50px;
+    line-height: 1.5;
+    font-weight:900;
+    letter-spacing: 2px;
+    text-decoration:teal double underline;
+    text-transform: uppercase;
+}
